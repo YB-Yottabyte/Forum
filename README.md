@@ -1,1 +1,41 @@
 # Forum
+Submitted by: **Sai Rithwik Kukunuri**
+
+This web app **PokeSquad** lets users strategically assemble your Pokemon squad to defend against trainers and conquer every challenge!
+
+Time spent: **[7]** hours spent in total
+
+Vist the Site: **https://veni-vici-steel.vercel.app/**
+
+## Required Features
+
+The following functionality **goals** have been completed:
+
+- [x] The web app contains a page that features a create form to add a new crewmate
+- [x] The web app includes a summary page of all the user’s added crewmatese
+- [x] A previously created crewmate can be updated from the list of crewmates in the summary page
+- [x] A previously created crewmate can be deleted from the crewmate list
+- [x] Each crewmate has a direct, unique URL link to an info page about them
+
+## Stretch Features
+- [x] A crewmate can be given a category upon creation which restricts their attribute value options
+- [x] A section of the summary page, displays summary statistics about a user’s crew on their crew page
+- [x]The summary page displays a custom “success” metric about a user’s crew which changes the look of the crewmate list
+  
+## Video Walkthrough
+
+Here's a walkthrough of the implemented features:
+
+![video1608657216-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d31df33e-d08f-4594-8e64-445405b96662)
+
+## License
+
+    Copyright 2025 Sai Rithwik Kukunuri
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
