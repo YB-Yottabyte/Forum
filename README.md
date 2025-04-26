@@ -26,6 +26,10 @@ Here's a walkthrough of the implemented features:
 
 ![video1608657216-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d31df33e-d08f-4594-8e64-445405b96662)
 
+Stretch Features
+
+![video1381123448-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bbf60fca-df55-4d8a-9ec5-30c06f347763)
+
 ## License
 
     Copyright 2025 Sai Rithwik Kukunuri
