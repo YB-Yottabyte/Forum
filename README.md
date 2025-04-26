@@ -1,26 +1,24 @@
 # Forum
 Submitted by: **Sai Rithwik Kukunuri**
 
-This web app **PokeSquad** lets users strategically assemble your Pokemon squad to defend against trainers and conquer every challenge!
+The **Forum** web app lets users create, view, edit, and delete posts. Users can interact with posts, customize the interface, and add extra features to their posts. It also includes a simple authentication system.
 
-Time spent: **[7]** hours spent in total
-
-Vist the Site: **https://veni-vici-steel.vercel.app/**
+Time spent: **[2]** hours spent in total
 
 ## Required Features
 
 The following functionality **goals** have been completed:
 
-- [x] The web app contains a page that features a create form to add a new crewmate
-- [x] The web app includes a summary page of all the user’s added crewmatese
-- [x] A previously created crewmate can be updated from the list of crewmates in the summary page
-- [x] A previously created crewmate can be deleted from the crewmate list
-- [x] Each crewmate has a direct, unique URL link to an info page about them
+- [x] Web app includes a create form that allows the user to create posts
+- [x] Web app includes a home feed displaying previously created posts
+- [x] Users can view posts in different ways
+- [x] Users can interact with each post in different ways
+- [x] A post that a user previously created can be edited or deleted from its post pages
 
 ## Stretch Features
-- [x] A crewmate can be given a category upon creation which restricts their attribute value options
-- [x] A section of the summary page, displays summary statistics about a user’s crew on their crew page
-- [x]The summary page displays a custom “success” metric about a user’s crew which changes the look of the crewmate list
+- [x] Web app implements pseudo-authentication
+- [x] Users can customize the interface
+- [x] Users can add more characterics to their posts
   
 ## Video Walkthrough
 
